@@ -17,11 +17,13 @@
  
   h1 {
 
-     font-size: 28px;
+     font-size: 48px;
 
      font-weight: 700;
 
      margin-bottom: 20px;
+
+     color: #1a325d;
 
    }
  
@@ -35,6 +37,15 @@
 
    }
  
+.highlight-block {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #0169a7, #a0bede); /* your gradient */
+  color: #fff; /* white text inside */
+  font-weight: 700;
+}
+
   h3#greeting {
 
      font-size: 20px;
@@ -300,7 +311,7 @@
  
 <!-- ✅ Content starts after all styles -->
 <div class="quiz-results">
-<h1> Your Animal Personality Breakdown!</h1>
+<h1> Your Business Domination Playbook!</h1>
 <h3 id="greeting" class="greeting-text"></h3> <!-- First name greeting here -->
 <h2 id="result-title"></h2> <!-- Dynamic personality type -->
 <p id="result-description" class="summary-text"></p> <!-- Description -->
@@ -388,7 +399,7 @@
  
 if (highest === sheep) {
 
-   resultText = "🐑 You are a Sheep Leader!";
+ resultText = "🐑 You are a <span class='highlight-block'>Sheep Leader</span>!";
 
    resultDesc = "You keep the peace and create safety—but avoiding conflict drains your energy. Lead with calm boundaries and clear asks so your empathy turns into real momentum and results";
 
@@ -396,7 +407,7 @@ if (highest === sheep) {
 
  } else if (highest === love_bird) {
 
-   resultText = "🦜 You are a Love Bird Leader!";
+    resultText = "🦜 You are a <span class='highlight-block'>Love Bird Leader</span>!";
 
    resultDesc = "You’ve risen stronger than ever. Now it’s your time to dominate.";
 
@@ -404,7 +415,7 @@ if (highest === sheep) {
 
  } else if (highest === owl) {
 
-   resultText = "🦉 You are an Owl Leader!";
+   resultText = "🦉 You are an <span class='highlight-block'>Owl Leader</span>!";
 
    resultDesc = "You have the vision. Now you need the structure to execute it.";
 
@@ -412,7 +423,7 @@ if (highest === sheep) {
 
  } else if (highest === rhino) {
 
-   resultText = "🦏 You are a Rhino Leader!";
+    resultText = "🦏 You are a <span class='highlight-block'>Rhino Leader</span>!";
 
    resultDesc = "You’re already building. Now do it your way.";
 
@@ -420,7 +431,7 @@ if (highest === sheep) {
 
  }
  
-  document.getElementById("result-title").textContent = resultText;
+  document.getElementById("result-title").innerHTML = resultText;
 
    document.getElementById("result-description").textContent = resultDesc;
  
