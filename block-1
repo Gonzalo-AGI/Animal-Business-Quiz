@@ -41,9 +41,10 @@
   display: inline-block;
   padding: 4px 10px;
   border-radius: 8px;
-  background: linear-gradient(135deg, #0169a7, #a0bede); /* your gradient */
-  color: #fff; /* white text inside */
+  background: linear-gradient(135deg, #0169a7, #a0bede); 
+  color: #fff;
   font-weight: 700;
+  text-transform: uppercase;
 }
 
   h3#greeting {
@@ -342,15 +343,25 @@
 
  const params = new URLSearchParams(window.location.search);
 
- const sheep = parseInt(params.get("sheep")) || 0;
+ let sheep = parseInt(params.get("sheep")) || 0;
 
- const love_bird = parseInt(params.get("love_bird")) || 0;
+ let love_bird = parseInt(params.get("love_bird")) || 0;
 
- const owl = parseInt(params.get("owl")) || 0;
+ let owl = parseInt(params.get("owl")) || 0;
 
- const rhino = parseInt(params.get("rhino")) || 0;
+ let rhino = parseInt(params.get("rhino")) || 0;
 
- const firstName = params.get("first_name");
+// 🔽 Step 3D: Allow direct linking by ?animal=
+const animalOverride = (params.get("animal") || "").trim();
+if (["sheep", "love_bird", "owl", "rhino"].includes(animalOverride)) {
+  // Force the chosen animal to be the top score
+  sheep     = (animalOverride === "sheep") ? 100 : 0;
+  love_bird = (animalOverride === "love_bird") ? 100 : 0;
+  owl       = (animalOverride === "owl") ? 100 : 0;
+  rhino     = (animalOverride === "rhino") ? 100 : 0;
+}
+
+const firstName = params.get("first_name");
  
 // Calculate total
 
@@ -393,9 +404,9 @@
 
    let resultDesc = "";
 
-   let ctaLink = "";
+   let ctaLink = "#plan-section";
 
-   let ctaText = "GET YOUR 30-DAY PLAN";
+   let ctaText = "GET YOUR 30-DAY PLAN!";
  
 if (highest === sheep) {
 
@@ -403,7 +414,7 @@ if (highest === sheep) {
 
    resultDesc = "You keep the peace and create safety—but avoiding conflict drains your energy. Lead with calm boundaries and clear asks so your empathy turns into real momentum and results";
 
-   ctaLink = "https://biinse-ja.myshopify.com/pages/30-day-plan";
+   ctaLink = "#plan-section";
 
  } else if (highest === love_bird) {
 
@@ -411,7 +422,7 @@ if (highest === sheep) {
 
    resultDesc = "You’ve risen stronger than ever. Now it’s your time to dominate.";
 
-   ctaLink = "https://biinse-ja.myshopify.com/pages/30-day-plan-lovebird";
+   ctaLink = "#plan-section";
 
  } else if (highest === owl) {
 
@@ -419,7 +430,7 @@ if (highest === sheep) {
 
    resultDesc = "You have the vision. Now you need the structure to execute it.";
 
-   ctaLink = "https://biinse-ja.myshopify.com/pages/30-day-planowl";
+   ctaLink = "#plan-section";
 
  } else if (highest === rhino) {
 
@@ -427,7 +438,7 @@ if (highest === sheep) {
 
    resultDesc = "You’re already building. Now do it your way.";
 
-   ctaLink = "https://biinse-ja.myshopify.com/pages/30-day-plan-rhino";
+   ctaLink = "#plan-section";
 
  }
  
@@ -444,10 +455,22 @@ if (highest === sheep) {
      cta.textContent = ctaText;
 
    }
- 
-  if (firstName) {
 
-     document.getElementById("greeting").innerHTML = `Hola <span class="highlight-name">${firstName}</span>, here's your Leadership Power 👇`;
+ // 🔽 Smooth scroll for CTA
+(function () {
+  const cta = document.getElementById("cta-btn");
+  if (!cta) return;
+
+  cta.addEventListener("click", function (e) {
+    if (cta.hash === "#plan-section") {
+      e.preventDefault();
+      const target = document.querySelector("#plan-section");
+      if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  });
+})();
+
+  if (firstName) {   document.getElementById("greeting").innerHTML = `Hola <span class="highlight-name">${firstName}</span>, here's your Leadership Power 👇`;
 
    }
 
