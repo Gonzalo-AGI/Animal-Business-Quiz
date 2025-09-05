@@ -1,162 +1,187 @@
 <div id="plan-section" style="max-width: 900px; margin: auto; padding: 2rem 1rem; font-family: 'Helvetica Neue', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: linear-gradient(to bottom, #f7f7f7, #ffffff);">
 
- 
   <!-- Title -->
   <div style="text-align: center; margin-bottom: 3rem;">
-    <h2 style="font-size: 2.3rem; font-weight: 700; color: #005181;">THE ANIMAL BUSINESS QUIZ</h2>
-    <p style="font-size: 1.2rem; color: #333; max-width: 700px; margin: auto;">You’ve already achieved what others only dream of. But legends don’t stagnate—they multiply!</p>
+    <h2 style="font-size: 2.3rem; font-weight: 700; color: #005181;">THE ANIMAL BUSINESS QUIZ – Extended Plan</h2>
+    <p style="font-size: 1.2rem; color: #333; max-width: 700px; margin: auto;">
+      Dive deeper into your personalized 30-day domination strategy.
+    </p>
   </div>
- 
-  <!-- Cards -->
-  <div style="display: flex; flex-direction: column; gap: 2rem;">
- 
-    <div style="background:#D6ECFA; backdrop-filter:blur(8px); border-radius:20px; padding:2rem; box-shadow:0 8px 20px rgba(0,0,0,0.06);">
-      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">The harsh reality</h3>
-      <p>You keep the peace, hold the team together, and make people feel safe—yet you sometimes stay quiet when your voice is most needed.</p>
-      <p>Avoiding conflict costs you energy and respect. Boundaries protect your calm; silence does not.</p>
+
+  <!-- ================= SHEEP EXTENDED ================= -->
+  <div class="animal-plan" id="sheep-plan" style="display:none;">
+
+  <!-- Marketing -->
+  <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+    <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Marketing – Use Your Dependability to Build Trust at Scale</h3>
+    <p>
+      You’re reliable and trusted by your clients, but now it’s time to show the world what you’re capable of. You don’t need to be flashy — you just need to share your value consistently so others can see it.
+    </p>
+    <p>
+      <strong>Moves to execute:</strong> Client Success Stories: Your clients already trust you. Turn that trust into marketing. Create case studies, testimonials, and videos that highlight the success you’ve brought them.
+    </p>
+    <p>
+      <em>What to do:</em> Ask for testimonials after every successful project. Create videos or write blog posts where your clients share their success stories. Share these consistently on your website and social media.
+    </p>
+  </div>
+
+  <!-- Content -->
+  <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+    <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Simple - Relatable Content Creation:</h3>
+    <p>
+      You don’t need to be an expert in content creation. Just share your stories and how you help clients. Your audience connects with you because they trust you.
+    </p>
+    <p>
+      <em>What to do:</em> Start posting regularly about your work: client success, behind-the-scenes insights, and why you do what you do. Use simple language and make it relatable.
+
+<p>
+      <strong>Result:</strong> You transform your reputation into a repeatable growth system that steadily attracts new clients.
+    </p>
+  </div>
+
+  <!-- Referrals -->
+  <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+    <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Referral Program:</h3>
+    <p>
+      You already get referrals naturally — now, let’s formalize that with a referral system.
+    </p>
+    <p>
+      <em>What to do:</em> Create a referral program where you reward clients who send new business your way. Track it with a Google Sheet or CRM, and reward clients with a thank-you gift, discount, or bonus.
+    </p>
+    <p>
+      <strong>Result:</strong> You turn your trustworthiness into a scalable marketing engine that consistently brings in new clients.
+    </p>
+  </div>
+
+  <!-- Sales -->
+  <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+    <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Sheep Sales System:</h3>
+    <p>
+      Leverage Your Relational Skills into a Repeatable Sales Process
+You’re great at connecting and building relationships, but you need a system to ensure those relationships turn into consistent sales.
+    </p>
+    <p>
+<strong>Moves to execute:</strong>
+Sales Script - Create a sales script that highlights your ability to connect with people, but also moves them through the process to close.</p>
+      <p> 
+<em>What to do:</em> Write a sales script that includes relationship-building steps like asking discovery questions to uncover pain points, and moving the conversation into closing once trust is established.</p>
+      <p>Automate Follow-Ups: You’re great at follow-ups, but automate them to stay consistent without doing it all manually.</p>
+      <p>
+<em>What to do:</em> Set up automated follow-up sequences (emails, texts) for your leads, and schedule reminders for you or your team to follow up at key points in the sales process.</p>
+      <p>
+<strong>Result:</strong> You turn your relational skills into a repeatable, scalable sales process that can be executed without you.</p>
+  </div>
+
+  <!-- Leadership -->
+  <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+    <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Sheep Leadership Team:</h3>
+    <p>
+      Lead With Support and Structure
+You are naturally a supportive leader, but to scale, you need to lead with confidence and delegate to give your team ownership.</p>
+    <p>
+<strong>Moves to execute:</strong> Clear KPIs - Set measurable KPIs for your team based on client satisfaction, referrals, and sales performance</p>
+    <p>
+<em>What to do:</em> Define SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound) for each team member. Post them publicly and track them regularly.</p>
+    <p>Delegate Leadership: You’re great at supporting others, but now it’s time to give others more responsibility and trust them with leadership.</p>
+    <p>
+    <em>What to do:</em> Pick 2 team members to mentor and start delegating leadership roles. Give them responsibility for client calls or managing smaller projects.</p>
+    <p>1:1 Meetings: Hold weekly check-ins with your team to discuss both their performance and personal goals.</p>
+     <p>
+<em>What to do:</em> Schedule weekly 1:1s to discuss KPIs and also focus on personal development. This shows you care about their growth, which builds loyalty and engagement.</p>
+    <p>
+<strong>Result:</strong> You empower your team to take ownership and lead independently, allowing you to focus on high-level growth.</p>
+
+</div>
+
+  <!-- ================= LOVE BIRD EXTENDED ================= -->
+  <div class="animal-plan" id="love_bird-plan" style="display:none;">
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Love Bird Extended Plan</h3>
+      <p><!-- Add Love Bird extended content here --></p>
     </div>
- 
-    <div style="background:#D6ECFA; backdrop-filter:blur(8px); border-radius:20px; padding:2rem; box-shadow:0 8px 20px rgba(0,0,0,0.06);">
-      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Your strengths</h3>
-      <ul>
-        <li>Loyal, steady, team-first; excellent listener.</li>
-        <li>Calm under pressure; de-escalates tension.</li>
-        <li>Creates trust and connection quickly.</li>
-      </ul>
+  </div>
+
+  <!-- ================= OWL EXTENDED ================= -->
+  <div class="animal-plan" id="owl-plan" style="display:none;">
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Owl Extended Plan</h3>
+      <p><!-- Add Owl extended content here --></p>
     </div>
- 
-    <div style="background:#D6ECFA; backdrop-filter:blur(8px); border-radius:20px; padding:2rem; box-shadow:0 8px 20px rgba(0,0,0,0.06);">
-      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">What’s draining your energy:</h3>
-      <ul>
-        <li>Aggressive or confrontational tones.</li>
-        <li>Unclear expectations and last-minute changes.</li>
-        <li>Feeling isolated or left out of decisions.</li>
-      </ul>
+  </div>
+
+  <!-- ================= RHINO EXTENDED ================= -->
+  <div class="animal-plan" id="rhino-plan" style="display:none;">
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Rhino Extended Plan</h3>
+      <p><!-- Add Rhino extended content here --></p>
     </div>
- 
-    <div style="background:#D6ECFA; backdrop-filter:blur(8px); border-radius:20px; padding:2rem; box-shadow:0 8px 20px rgba(0,0,0,0.06);">
-      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Personal revelations</h3>
-      <ul>
-        <li>Safety doesn’t require silence; boundaries create safety.</li>
-        <li>Your empathy is a superpower—pair it with clear asks.</li>
-        <li>“No pressure” doesn’t mean “no standards.”</li>
-      </ul>
-    </div>
- 
-    <div style="background:#D6ECFA; backdrop-filter:blur(8px); border-radius:20px; padding:2rem; box-shadow:0 8px 20px rgba(0,0,0,0.06);">
-      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Revelations to take control of your life:</h3>
-      <ul>
-        <li>State needs early (“I can deliver X by Friday if I have Y by noon”).</li>
-        <li>Use short scripts for pushback; calm &amp; direct beats avoidance.</li>
-        <li>Schedule connection on purpose—don’t wait for it.</li>
-      </ul>
-    </div>
- 
-    <div style="background:#D6ECFA; backdrop-filter:blur(8px); border-radius:20px; padding:2rem; box-shadow:0 8px 20px rgba(0,0,0,0.06);">
-      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Personal Development Plan – 30 days</h3>
- 
-      <h4 style="margin-top:1rem; font-weight:600;">Week 1 – Audit like a CEO</h4>
-      <ul>
-        <li>Map your top 5 relationships: what you need vs. what you give.</li>
-        <li>Cut two small obligations that drain you without impact.</li>
-        <li>Choose one personal growth goal and tell an accountability partner.</li>
-      </ul>
- 
-      <h4 style="margin-top:1rem; font-weight:600;">Week 2 – Get Your Edge Back</h4>
-      <ul>
-        <li>Use this boundary script daily: “I want to help. Here’s what I can do by ___.”</li>
-        <li>Mirror &amp; match energy—but keep your steady tone.</li>
-        <li>Join one room where you’re not the most experienced; contribute once.</li>
-      </ul>
- 
-      <h4 style="margin-top:1rem; font-weight:600;">WEEK 3 – CREATE HABITS THAT LEAVE A LEGACY</h4>
-      <ul>
-        <li>Run one “inclusion check” in meetings: invite two quiet voices to share.</li>
-        <li>Build a weekly clarity ritual: recap agreements &amp; next steps to the group.</li>
-        <li>Practice 60-second assertive updates (headline → why it matters → ask).</li>
-      </ul>
- 
-      <h4 style="margin-top:1rem; font-weight:600;">Week 4 – Activate Expansion</h4>
-      <ul>
-        <li>Say the thing you’ve been avoiding—kind, specific, and direct.</li>
-        <li>Set a “non-negotiables” list for your calendar.</li>
-        <li>Invite a mentor/peer to review your growth and set the next 90-day target.</li>
-      </ul>
-    </div>
- 
-    <!-- CTA + Buttons -->
-    <div style="text-align:center; padding:3rem 1rem;">
-      <style>
-         .bounce-button-xl {
-           display:inline-block;
-           padding:24px 64px;
-           margin:1rem;
-           font-size:1.4rem;
-           font-weight:800;
-           text-decoration:none;
-           border-radius:999px;
-           box-shadow:0 10px 35px rgba(0,0,0,0.15);
-           transition:transform 0.3s ease, box-shadow 0.3s ease;
-           animation:pulseGradient 5s infinite linear;
-           background-size:200% 200%;
-           color:white;
-           background-image:linear-gradient(270deg, #1a325d, #1a325d, #1a325d);
-         }
- 
-        .bounce-button-xl:hover {
-           transform:scale(1.07) translateY(-6px);
-           box-shadow:0 16px 50px rgba(0,0,0,0.2);
-         }
- 
-        .bounce-button-xl.gray {
-           background-image:linear-gradient(270deg, #bbbbbb, #dddddd, #bbbbbb);
-           color:#333;
-         }
- 
-        @keyframes pulseGradient {
-           0% { background-position: 0% 50%; }
-           50% { background-position: 100% 50%; }
-           100% { background-position: 0% 50%; }
-         }
- 
-        @media (max-width: 500px) {
-           .bounce-button-xl {
-             font-size: 1.1rem;
-             padding: 18px 36px;
-           }
-         }
-      </style>
- 
-      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;"> 
-        Lead from abundance, not exhaustion
-      </h3>
-      <p style="font-size:1.2rem; color:#444; max-width:700px; margin:0 auto 2rem auto; line-height:1.6;">
-        In The Business Circle, great leaders become even greater.  
-        This is your space and community to keep growing without having to lead alone. 
-      </p>
-<a href="https://coaching.itsrichardmartinez.com/calendar-page" class="bounce-button-xl">
-  BOOK YOUR FREE CONSULTATION
-</a>
+  </div>
+
+  <!-- CTA + Buttons -->
+  <div style="text-align:center; padding:3rem 1rem;">
+    <style>
+      .bounce-button-xl {
+        display:inline-block;
+        padding:24px 64px;
+        margin:1rem;
+        font-size:1.4rem;
+        font-weight:800;
+        text-decoration:none;
+        border-radius:999px;
+        box-shadow:0 10px 35px rgba(0,0,0,0.15);
+        transition:transform 0.3s ease, box-shadow 0.3s ease;
+        animation:pulseGradient 5s infinite linear;
+        background-size:200% 200%;
+        color:white;
+        background-image:linear-gradient(270deg, #1a325d, #1a325d, #1a325d);
+      }
+      .bounce-button-xl:hover {
+        transform:scale(1.07) translateY(-6px);
+        box-shadow:0 16px 50px rgba(0,0,0,0.2);
+      }
+      .bounce-button-xl.gray {
+        background-image:linear-gradient(270deg, #bbbbbb, #dddddd, #bbbbbb);
+        color:#333;
+      }
+      @keyframes pulseGradient {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+      }
+      @media (max-width: 500px) {
+        .bounce-button-xl { font-size: 1.1rem; padding: 18px 36px; }
+      }
+    </style>
+
+    <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Acceleration Rule – Delegate Daily</h3>
+    <p style="font-size:1.2rem; color:#444; max-width:700px; margin:0 auto 2rem auto; line-height:1.6;">
+      Every day for 30 days, give away one task, decision, or responsibility you normally handle. By Day 30, your team will be executing the systems you’ve put in place, allowing you to scale without bottlenecks. 
+    </p>
+
+    <!-- Primary CTA -->
+    <a href="https://coaching.itsrichardmartinez.com/calendar-page" class="bounce-button-xl">
+      BOOK YOUR FREE CONSULTATION
+    </a>
+
+    <!-- Back Button -->
+    <a id="back-btn" class="bounce-button-xl gray">⬅ Back to Results</a>
+  </div>
+</div>
 
 <script>
 (function () {
-  // Read quiz scores from URL
   const params = new URLSearchParams(window.location.search);
-  const scores = {
-    sheep: parseInt(params.get("sheep")) || 0,
-    love_bird: parseInt(params.get("love_bird")) || 0,
-    owl: parseInt(params.get("owl")) || 0,
-    rhino: parseInt(params.get("rhino")) || 0
-  };
+  const animal = params.get("animal") || "sheep";
 
-  // Tie-break order if scores are equal (and default if all zero)
-  const order = ["sheep", "love_bird", "owl", "rhino"];
-  const topAnimal = order.reduce((best, k) => (scores[k] > scores[best] ? k : best), order[0]);
+  // Hide all, show only the selected animal plan
+  document.querySelectorAll(".animal-plan").forEach(div => div.style.display = "none");
+  const winnerEl = document.getElementById(animal + "-plan");
+  if (winnerEl) winnerEl.style.display = "block";
 
-  // Point the bottom gray CTA to your Final Plan page with the animal in the query
-  const fullPlanBtn = document.querySelector(".bounce-button-xl.gray");
-  if (fullPlanBtn) {
-  fullPlanBtn.href = "/pages/animal-business-quiz?animal=" + encodeURIComponent(topAnimal);
-}
+  // Back button goes to Page 1 with same params
+  const backBtn = document.getElementById("back-btn");
+  if (backBtn) {
+    backBtn.href = "/pages/animal-business-quiz?" + params.toString();
+  }
 })();
 </script>
