@@ -11,113 +11,237 @@
   <!-- ================= SHEEP EXTENDED ================= -->
   <div class="animal-plan" id="sheep-plan" style="display:none;">
 
-  <!-- Marketing -->
-  <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
-    <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Marketing – Use Your Dependability to Build Trust at Scale</h3>
-    <p>
-      You’re reliable and trusted by your clients, but now it’s time to show the world what you’re capable of. You don’t need to be flashy — you just need to share your value consistently so others can see it.
-    </p>
-    <p>
-      <strong>Moves to execute:</strong> Client Success Stories: Your clients already trust you. Turn that trust into marketing. Create case studies, testimonials, and videos that highlight the success you’ve brought them.
-    </p>
-    <p>
-      <em>What to do:</em> Ask for testimonials after every successful project. Create videos or write blog posts where your clients share their success stories. Share these consistently on your website and social media.
-    </p>
-  </div>
+    <!-- Marketing -->
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Marketing – Use Your Dependability to Build Trust at Scale</h3>
+      <p>
+        You’re reliable and trusted by your clients, but now it’s time to show the world what you’re capable of. You don’t need to be flashy — you just need to share your value consistently so others can see it.
+      </p>
+      <p>
+        <strong>Moves to execute:</strong> Client Success Stories: Your clients already trust you. Turn that trust into marketing. Create case studies, testimonials, and videos that highlight the success you’ve brought them.
+      </p>
+      <p>
+        <em>What to do:</em> Ask for testimonials after every successful project. Create videos or write blog posts where your clients share their success stories. Share these consistently on your website and social media.
+      </p>
+    </div>
 
-  <!-- Content -->
-  <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
-    <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Simple - Relatable Content Creation:</h3>
-    <p>
-      You don’t need to be an expert in content creation. Just share your stories and how you help clients. Your audience connects with you because they trust you.
-    </p>
-    <p>
-      <em>What to do:</em> Start posting regularly about your work: client success, behind-the-scenes insights, and why you do what you do. Use simple language and make it relatable.
+    <!-- Content -->
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Simple - Relatable Content Creation:</h3>
+      <p>
+        You don’t need to be an expert in content creation. Just share your stories and how you help clients. Your audience connects with you because they trust you.
+      </p>
+      <p>
+        <em>What to do:</em> Start posting regularly about your work: client success, behind-the-scenes insights, and why you do what you do. Use simple language and make it relatable.
+      </p>
+      <p>
+        <strong>Result:</strong> You transform your reputation into a repeatable growth system that steadily attracts new clients.
+      </p>
+    </div>
 
-<p>
-      <strong>Result:</strong> You transform your reputation into a repeatable growth system that steadily attracts new clients.
-    </p>
-  </div>
+    <!-- Referrals -->
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Referral Program:</h3>
+      <p>
+        You already get referrals naturally — now, let’s formalize that with a referral system.
+      </p>
+      <p>
+        <em>What to do:</em> Create a referral program where you reward clients who send new business your way. Track it with a Google Sheet or CRM, and reward clients with a thank-you gift, discount, or bonus.
+      </p>
+      <p>
+        <strong>Result:</strong> You turn your trustworthiness into a scalable marketing engine that consistently brings in new clients.
+      </p>
+    </div>
 
-  <!-- Referrals -->
-  <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
-    <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Referral Program:</h3>
-    <p>
-      You already get referrals naturally — now, let’s formalize that with a referral system.
-    </p>
-    <p>
-      <em>What to do:</em> Create a referral program where you reward clients who send new business your way. Track it with a Google Sheet or CRM, and reward clients with a thank-you gift, discount, or bonus.
-    </p>
-    <p>
-      <strong>Result:</strong> You turn your trustworthiness into a scalable marketing engine that consistently brings in new clients.
-    </p>
-  </div>
-
-  <!-- Sales -->
-  <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
-    <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Sheep Sales System:</h3>
-    <p>
-      Leverage Your Relational Skills into a Repeatable Sales Process
-You’re great at connecting and building relationships, but you need a system to ensure those relationships turn into consistent sales.
-    </p>
-    <p>
-<strong>Moves to execute:</strong>
-Sales Script - Create a sales script that highlights your ability to connect with people, but also moves them through the process to close.</p>
-      <p> 
-<em>What to do:</em> Write a sales script that includes relationship-building steps like asking discovery questions to uncover pain points, and moving the conversation into closing once trust is established.</p>
+    <!-- Sales -->
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Sheep Sales System:</h3>
+      <p>
+        Leverage Your Relational Skills into a Repeatable Sales Process
+        You’re great at connecting and building relationships, but you need a system to ensure those relationships turn into consistent sales.
+      </p>
+      <p><strong>Moves to execute:</strong> Sales Script - Create a sales script that highlights your ability to connect with people, but also moves them through the process to close.</p>
+      <p><em>What to do:</em> Write a sales script that includes relationship-building steps like asking discovery questions to uncover pain points, and moving the conversation into closing once trust is established.</p>
       <p>Automate Follow-Ups: You’re great at follow-ups, but automate them to stay consistent without doing it all manually.</p>
+      <p><em>What to do:</em> Set up automated follow-up sequences (emails, texts) for your leads, and schedule reminders for you or your team to follow up at key points in the sales process.</p>
+      <p><strong>Result:</strong> You turn your relational skills into a repeatable, scalable sales process that can be executed without you.</p>
+    </div>
+
+    <!-- Leadership -->
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Sheep Leadership Team:</h3>
       <p>
-<em>What to do:</em> Set up automated follow-up sequences (emails, texts) for your leads, and schedule reminders for you or your team to follow up at key points in the sales process.</p>
-      <p>
-<strong>Result:</strong> You turn your relational skills into a repeatable, scalable sales process that can be executed without you.</p>
+        Lead With Support and Structure
+        You are naturally a supportive leader, but to scale, you need to lead with confidence and delegate to give your team ownership.
+      </p>
+      <p><strong>Moves to execute:</strong> Clear KPIs - Set measurable KPIs for your team based on client satisfaction, referrals, and sales performance</p>
+      <p><em>What to do:</em> Define SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound) for each team member. Post them publicly and track them regularly.</p>
+      <p>Delegate Leadership: You’re great at supporting others, but now it’s time to give others more responsibility and trust them with leadership.</p>
+      <p><em>What to do:</em> Pick 2 team members to mentor and start delegating leadership roles. Give them responsibility for client calls or managing smaller projects.</p>
+      <p>1:1 Meetings: Hold weekly check-ins with your team to discuss both their performance and personal goals.</p>
+      <p><em>What to do:</em> Schedule weekly 1:1s to discuss KPIs and also focus on personal development. This shows you care about their growth, which builds loyalty and engagement.</p>
+      <p><strong>Result:</strong> You empower your team to take ownership and lead independently, allowing you to focus on high-level growth.</p>
+    </div>
   </div>
-
-  <!-- Leadership -->
-  <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
-    <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Sheep Leadership Team:</h3>
-    <p>
-      Lead With Support and Structure
-You are naturally a supportive leader, but to scale, you need to lead with confidence and delegate to give your team ownership.</p>
-    <p>
-<strong>Moves to execute:</strong> Clear KPIs - Set measurable KPIs for your team based on client satisfaction, referrals, and sales performance</p>
-    <p>
-<em>What to do:</em> Define SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound) for each team member. Post them publicly and track them regularly.</p>
-    <p>Delegate Leadership: You’re great at supporting others, but now it’s time to give others more responsibility and trust them with leadership.</p>
-    <p>
-    <em>What to do:</em> Pick 2 team members to mentor and start delegating leadership roles. Give them responsibility for client calls or managing smaller projects.</p>
-    <p>1:1 Meetings: Hold weekly check-ins with your team to discuss both their performance and personal goals.</p>
-     <p>
-<em>What to do:</em> Schedule weekly 1:1s to discuss KPIs and also focus on personal development. This shows you care about their growth, which builds loyalty and engagement.</p>
-    <p>
-<strong>Result:</strong> You empower your team to take ownership and lead independently, allowing you to focus on high-level growth.</p>
-
-</div>
 
   <!-- ================= LOVE BIRD EXTENDED ================= -->
   <div class="animal-plan" id="love_bird-plan" style="display:none;">
+    <!-- Marketing -->
     <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
-      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Love Bird Extended Plan</h3>
-      <p><!-- Add Love Bird extended content here --></p>
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Marketing –  Use Your Charm to Build Authority</h3>
+      <p>You connect easily and win hearts effortlessly. But now, it’s time to turn that personal magic into a brand that scales.</p>
+      <p><strong> Moves to execute:</strong> Client Success Stories: Use your ability to connect to gather powerful success stories and testimonials from clients. These will become the foundation of your marketing efforts.</p>
+      <p><em>What to do:</em> After every successful project or interaction, ask clients for testimonials or have them record a quick video sharing how you helped them. Share these stories on your website and social media channels.</p>
+    </div>
+    <!-- Content -->
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Simple - Relatable Content Creation:</h3>
+      <p>Your gift for speaking and engaging makes you the perfect person to create content that resonates emotionally with your audience.</p>
+      <p><em>What to do:</em> Record weekly videos or live sessions where you talk about client success stories or industry insights. Post regularly on social media to build your personal brand.</p>
+    </div>
+    <!-- Referrals -->
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Referral Program:</h3>
+      <p>You already get referrals naturally. Now, let’s formalize it and create a reward system for clients who send new business your way.</p>
+      <p><em>What to do:</em> Set up a referral program where you offer clients a reward (discounts, gifts, recognition) for every successful referral. Track it with a simple Google Sheet or CRM.</p>
+      <p><strong>Result:</strong> You turn your natural influence into scalable, repeatable marketing that works while you focus on other areas.</p>
+    </div>
+    <!-- Sales -->
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Love Bird Sales System:</h3>
+      <p>You know how to connect, but teaching your team to close like you do is what will free up your time and grow your business.</p>
+      <p><strong>Moves to execute:</strong> Sales Script: Write a relationship-driven sales script that teaches your team how to replicate your rapport-building process and move deals forward without relying on personal charm alone.</p>
+      <p><em>What to do:</em> Create a sales process that includes discovery questions to uncover pain points, urgency, and client needs. This will ensure your team can connect and close with the same level of success.</p>
+      <p><strong>Daily Roleplay:</strong> Your team needs to warm up before calling clients, so set up roleplay sessions every day. This gives them practice in connecting with clients and moving the conversation forward.</p>
+      <p><em>What To Do:</em> Schedule a 10-minute roleplay session every morning where your team practices the sales script and handles objections. Make sure they rotate roles so they understand both sides.</p>
+      <p><strong>Automate Follow-Ups:</strong> You’re great at follow-ups, but you need to automate the process to stay on top of leads and prospects without doing everything yourself.</p>
+      <p><em>What to do:</em> Use your CRM to set up automated follow-up emails, text reminders, and calendar invites. This keeps you consistent without extra manual effort.</p>
+      <p><strong>Result:</strong> You build a scalable sales process that allows you to close deals without being present for every single conversation.</p>
+    </div>
+    <!-- Leadership -->
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Love Bird Leadership Team:</h3>
+      <p>You naturally inspire others, but to scale, you need to empower your team with systems and delegation.</p>
+      <p><strong>Moves to execute:</strong> Clear KPIs - You need to define measurable outcomes for your team. Without these metrics, it’s easy to get sidetracked and lose focus.</p>
+      <p><em>Delegate Leadership:</em> Set up 3–5 KPIs for each role that focus on outcomes: e.g., client satisfaction scores, referral rates, and client retention. Track these KPIs weekly and make them public within the team.</p>
+      <p><em>What To Do:</em> Identify two team members who have leadership potential and start delegating tasks to them. Have them shadow you for a week, then give them independent responsibility.</p>
+      <p><strong>1:1 Meetings:</strong> Set up weekly meetings with your team members. Focus on both their professional performance and personal development goals. This aligns them with your business vision.</p>
+      <p><strong>Team Empowerment:</strong> Use your natural connection skills to create a strong team culture based on trust and respect.</p>
+      <p><strong>Result:</strong> Host team-building events or casual virtual hangouts where team members can bond, share successes, and build stronger relationships. You build a self-sustaining team that operates independently, allowing you to scale and focus on bigger-picture goals.</p>
     </div>
   </div>
 
   <!-- ================= OWL EXTENDED ================= -->
   <div class="animal-plan" id="owl-plan" style="display:none;">
+
+    <!-- Marketing -->
     <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
-      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Owl Extended Plan</h3>
-      <p><!-- Add Owl extended content here --></p>
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Marketing – Leverage Your Analytical Mind to Scale</h3>
+      <p>You’re analytical and precise, so let’s use that to build a marketing system that’s as efficient as your brain. You already understand the numbers — now let’s make them work for you by scaling with a repeatable process.</p>
+    </div>
+
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Moves To Execute:</h3>
+      <p><strong>Data-Driven Campaigns:</strong> Your love for data and analysis can make you an expert in creating highly optimized marketing campaigns.</p>
+      <p><em>What to do:</em> Use tools like Google Analytics, Facebook Ads Manager, or CRM data to track your marketing efforts. Start with one campaign (e.g., an email sequence or ad) and measure conversion rates, CTR, and engagement. Make adjustments as you go to increase ROI.</p>
+      <p><strong>Automate Marketing:</strong> You’re good at creating systems — now let’s automate your marketing to work while you sleep.</p>
+      <p><em>What to do:</em> Create a content calendar with planned blog posts, emails, and social media content. Use tools like Buffer or Hootsuite to schedule posts ahead of time and automate email sequences.</p>
+      <p><strong>Test, Measure, and Optimize:</strong> Your ability to analyze is your advantage here. Test and track your marketing campaigns to see what’s working.</p>
+      <p><em>What to do: </em> Set clear KPIs for each campaign (e.g., leads generated, cost per lead, conversion rates). Run split tests and measure performance. Continuously optimize based on results.</p>
+      <p><strong>Result:</strong> You turn your data-driven skills into scalable, repeatable marketing that works even when you’re not present.</p>
+    </div>
+
+    <!-- Sales -->
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Owl Sales System:</h3>
+      <p>Your systematic approach to sales is your superpower — now let’s make it a machine that works without your direct involvement in every deal.</p>
+      <p><strong>Moves to execute:</strong> Sales Process Blueprint: Create a structured sales process that’s based on the systematic approach you naturally follow. This ensures your team can replicate your success without needing you to be there for every call.</p>
+      <p><em>What to do:</em> Write out your sales script, including discovery questions, pain points, objections, and closing strategies. Make sure it’s a step-by-step process that can be followed by others.</p>
+      <p><strong>Daily Roleplay:</strong> Your team needs to warm up before they hit the phones, so set up daily roleplays to help them practice before talking to clients.</p>
+      <p><em>What to do:</em> Schedule 10-minute roleplay sessions daily with your team. Ensure they’re practicing discovery and closing techniques. Give them feedback on how to improve.</p>
+      <p><strong>Automate Lead Nurturing:</strong> Use your systems mindset to automate the follow-up process.</p>
+      <p><em>What to do:</em> Set up automated email sequences or CRM reminders for follow-ups, so leads are always nurtured without you needing to chase them.</p>
+      <p><strong>Result:</strong> You build a scalable sales system that runs efficiently without needing constant attention from you.</p>
+    </div>
+
+    <!-- Leadership -->
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Owl Leadership Team:</h3>
+      <p>You’re great at creating systems and building structure — now let’s delegate and empower your team to run the show while you focus on strategy.</p>
+      <p><strong>Moves to execute:</strong> Clear KPIs: Set measurable KPIs that track team performance.</p>
+      <p><em>What to do:</em> Define 3-5 KPIs for each role (e.g., sales calls, client retention, project completion rates). Post these KPIs publicly and track them weekly in a shared document or CRM.</p>
+      <p><strong>Leadership Development:</strong> Identify 2 potential leaders and start sculpting them to take on more responsibility.</p>
+      <p><em>What to do:</em> Choose two team members and start giving them more responsibility. Start by having them lead client calls, manage small teams, or handle decision-making in areas you normally oversee.</p>
+      <p><strong>Weekly 1:1s:</strong> Keep checking in with your team to track both their performance and growth.</p>
+      <p><em>What to do:</em> Schedule 1:1s with your direct reports to discuss both personal and professional goals. Align their growth with the business's vision and check in on their progress.</p>
+      <p><strong>Delegate Tasks:</strong> The more you delegate, the more you can scale. Trust your team to handle tasks and free up your time for higher-level work.</p>
+      <p><em>What to do:</em> Delegate 1 task per day that you usually manage. Trust the process, and allow your team to run with it.</p>
+      <p><strong>Result:</strong> You create a self-sufficient, high-performance team that can run the business without you.</p>
     </div>
   </div>
 
   <!-- ================= RHINO EXTENDED ================= -->
-  <div class="animal-plan" id="rhino-plan" style="display:none;">
+  <div class="animal-plan animal-business-quiz-pg-2" id="rhino-plan" style="display:none;">
+    <!-- Marketing -->
     <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
-      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Rhino Extended Plan</h3>
-      <p><!-- Add Rhino extended content here --></p>
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Marketing – Turn Force Into Authority</h3>
+      <p>Right now, your brand is raw power. But power unproven looks like noise.</p>
+      <p><strong>Moves to execute:</strong> Authority Library - Every deal closed = 1 testimonial, 1 case study, and 1 short clip. Systematize it.</p>
+      <p><em>What to do:</em> Immediately start collecting testimonials right after every sale. Send a form to clients asking for their feedback and use their answers as case studies.</p>
+    </div>
+
+    <!-- Content -->
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Category Ownership:</h3>
+      <p>Own a niche. Pick 1 market and go deep into it — don’t scatter your efforts.</p>
+      <p><em>What to do:</em> Choose one market segment and create a clear message for it. Write a manifesto or a mini-guide explaining why you’re the best solution for this niche.</p>
+      <p><strong>Weekly Proof Content:</strong> Post proof every week. Use short videos, written case studies, or client stories.</p>
+      <p><em>What to do:</em> Record one 60-second video every week talking about your latest win or success story. Post it on social media and tag your clients (with permission).</p>
+      <p><strong>Client Story Pipeline:</strong> Train your team to submit client success stories each week.</p>
+      <p><em>What to do:</em> Set a submission deadline every week where your team sends in success stories or positive client feedback. Create a shared document that all team members contribute to.</p>
+      <p><strong>Result:</strong> You stop being just a “loud Rhino” and become the undisputed authority in your space.</p>
+    </div>
+    
+    <!-- Sales -->
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Rhino Sales System:</h3>
+      <p>You can close because of who you are. But if only you can close, you’ve chained your own growth.</p>
+      <p><strong>Moves to execute:</strong> Scripted Discovery: Write 7–10 mandatory questions that uncover pain, money, and urgency.</p>
+      <p><em>What to do:</em> Develop a scripted discovery process for your team to use on every call. This should include:
+      What problems are you facing?
+      What is the cost of this problem?
+      How soon do you need a solution?
+      What’s the budget for solving this problem?</p>
+      <p><strong>Roleplay Machine:</strong> Set up daily role-playing sessions before your team calls clients. This ensures they’re warmed up, not testing on clients.</p> 
+      <p><em>What to do:</em> Set a mandatory 10-minute roleplay session before every sales call. Rotate the roles: one person plays the prospect, the other plays the salesperson.</p>
+      <p><strong>Pipeline Math:</strong> Track: calls made → contacts → appointments → closes. You need to know where your sales process breaks.</p>
+      <p><em>What to do:</em> Use a CRM (Customer Relationship Management) system to track every stage of your sales funnel. Measure how many calls result in appointments, and how many appointments close.</p>
+      <p><strong>Objection Arsenal:</strong> Write the top 10 objections and your exact responses.</p>
+      <p><em>What to do:</em> Have your team roleplay objections daily. Keep a shared document of the top objections and how to respond. Make sure the responses are detailed and not vague.</p>
+      <p><strong>Shadow & Switch:</strong> Let your reps shadow you on calls, then switch — they shadow and you close.</p>
+      <p><em>What to do:</em> Have 1 team member shadow your next 3 calls. After that, you shadow their next 3 calls, so they get feedback on their approach.</p>
+      <p><strong>Result:</strong> Your sales process becomes transferable, predictable, and scalable.</p>
+    </div>
+
+    <!-- Leadership -->
+    <div style="background:#D6ECFA; border-radius:20px; padding:2rem; margin-bottom:2rem;">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Rhino Leadership Team:</h3>
+      <p>Your team doesn’t need more pressure. They need more clarity and empowerment.</p>
+      <p><strong>Moves to execute:</strong> KPI Dashboard - Set up a dashboard that shows the critical KPIs.</p>
+      <p><em>What to do:</em> Choose 3-5 key metrics that define success for every role. For example, sales KPIs might include: number of calls, appointments, and closed deals. For ops, it could be turnaround time or project completion rate. Make sure these numbers are publicly visible and tracked.</p>
+      <p><strong>Leadership Bench:</strong> Identify 2 leaders you can trust to run without you.</p>
+      <p><em>What to do:</em> Pick two team members to groom for leadership. Give them increased responsibility and set up 1:1s to review their progress. Start giving them decision-making power.</p>
+      <p><strong>Weekly 1:1s:</strong> Have 15-minute weekly check-ins with each of your direct reports. Focus on their personal, professional, and financial goals.</p>
+      <p><em>What to do:</em> Set up weekly 1:1 meetings with your team where you track both their performance and personal growth. This builds trust and empowers them.</p>
+      <p><strong>Reward Structure:</strong> Only reward measurable outcomes, not effort.</p>
+      <p><em>What to do:</em> Develop a bonus or reward system that only kicks in when certain goals are met. Make these numbers public so your team knows exactly what’s expected.</p>
+      <p><strong>SOP Transfer:</strong> Each week, write 1 SOP for a recurring decision, then hand it off permanently.</p>
+      <p><em>What to do:</em> Choose a task you handle regularly and write out the Standard Operating Procedure (SOP) for that task. Once done, delegate it to the right person and stop touching it.</p>
+      <p><strong>Result:</strong> You build a self-sufficient, empowered team that can run without you.</p>
     </div>
   </div>
 
-  <!-- CTA + Buttons -->
+  <!-- CTA + Buttons (outside all animal sections so it always shows) -->
   <div style="text-align:center; padding:3rem 1rem;">
     <style>
       .bounce-button-xl {
@@ -171,17 +295,34 @@ You are naturally a supportive leader, but to scale, you need to lead with confi
 <script>
 (function () {
   const params = new URLSearchParams(window.location.search);
-  const animal = params.get("animal") || "sheep";
 
-  // Hide all, show only the selected animal plan
+  // Normalize base: lowercase, trim, spaces/dashes -> underscores
+  const rawAnimal = (params.get("animal") || "sheep").trim().toLowerCase();
+  const cleaned = rawAnimal.replace(/[\s-]/g, "_");
+
+  // Alias map so variations still work
+  const aliasMap = {
+    "lovebird": "love_bird",
+    "love_bird": "love_bird",
+    "lovebird_plan": "love_bird",
+    "love_bird_plan": "love_bird",
+    "owl_plan": "owl",
+    "rhino_plan": "rhino",
+    "sheep_plan": "sheep"
+  };
+
+  const animal = aliasMap[cleaned] || cleaned;
+
+  // Hide all
   document.querySelectorAll(".animal-plan").forEach(div => div.style.display = "none");
-  const winnerEl = document.getElementById(animal + "-plan");
+
+  // Show selected (fallback to sheep)
+  let winnerEl = document.getElementById(animal + "-plan");
+  if (!winnerEl) winnerEl = document.getElementById("sheep-plan");
   if (winnerEl) winnerEl.style.display = "block";
 
   // Back button goes to Page 1 with same params
   const backBtn = document.getElementById("back-btn");
-  if (backBtn) {
-    backBtn.href = "/pages/animal-business-quiz?" + params.toString();
-  }
+  if (backBtn) backBtn.href = "/pages/animal-business-quiz?" + params.toString();
 })();
 </script>
